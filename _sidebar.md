@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Getting Started](/)  
-  <!-- * [Quick Start](/quick_start.md) -->
+  * [Quick Start](/quick_start.md)
 * Audio
   * [Background Music](/Audio/background_music.md)
 * Behaviours
@@ -30,3 +30,4 @@
   * [Maths](/utilities/maths.md)
   * [Position](/utilities/position.md)
   * [Spawn](/utilities/spawn.md)
+* [Events](/events.md)
